@@ -2,6 +2,8 @@
 
 Dot Teams is designed to teach dots how to form different teams. This project aims to demonstrate basic programming concepts and algorithms through a visual representation of dots organizing themselves into teams using machine learning.
 
+![Dots grouping image](https://github.com/lamijaselmanovic/simple-neural-network/blob/main/src/assets/dots-grouping.png?raw=true)
+
 # Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
