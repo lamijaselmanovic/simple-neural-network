@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Simple Neural Network - Dot Teams
+
+Dot Teams is designed to teach dots how to form different teams. This project aims to demonstrate basic programming concepts and algorithms through a visual representation of dots organizing themselves into teams using machine learning.
+
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
