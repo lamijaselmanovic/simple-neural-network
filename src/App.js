@@ -84,7 +84,7 @@ const App = () => {
     const guessResult = guess(weights, point);
     const error = team - guessResult;
     const learningRate = 0.1;
-    // console.log("LAMIJA", error);
+    // console.log("Error", error);
     return {
       x: weights.x + point.x * error * learningRate,
       y: weights.y + point.y * error * learningRate,
